@@ -139,7 +139,6 @@
 |Polycom|Poly RealConnect for Microsoft Teams and Skype for Business| |Not vuln|Workaround| | ||[source](https://support.polycom.com/content/dam/polycom-support/global/documentation/plygn-21-08-poly-systems-apache.pdf)|
 |Polycom|RealAccess| |Not vuln|Workaround| | ||[source](https://support.polycom.com/content/dam/polycom-support/global/documentation/plygn-21-08-poly-systems-apache.pdf)|
 |Portainer|All| | | | | ||[Portainer Blog Post](https://www.portainer.io/blog/portainer-statement-re-log4j-cve-2021-44228)|
-|Portex|All|<3.0.2|Not vuln|Fix| | ||[source](https://github.com/katjahahn/PortEx/releases)|
 |PortSwigger|All| | | | | ||[PortSwigger Forum](https://forum.portswigger.net/thread/are-burp-collaborator-or-burp-enterprise-vulnerable-to-log4j-dc6524e0)|
 |Postgres|PostgreSQL JDBC| |Not vuln|Not vuln|Not vuln|Not vuln||[source](https://www.postgresql.org/about/news/postgresql-jdbc-and-the-log4j-cve-2371/)|
 |PostGreSQL|All| | | | | ||[PostGreSQL News](https://www.postgresql.org/about/news/postgresql-jdbc-and-the-log4j-cve-2371/)|
